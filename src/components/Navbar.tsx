@@ -25,7 +25,7 @@ const Navbar = () => {
           <a href="#process" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Process</a>
           <a href="#testimonials" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Testimonials</a>
           <a
-            href="#cta"
+            href="#contact"
             className="bg-primary text-primary-foreground px-5 py-2.5 rounded-lg text-sm font-semibold hover:brightness-110 transition-all"
           >
             Book a Strategy Call

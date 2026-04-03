@@ -5,7 +5,7 @@ const services = [
   {
     icon: BarChart3,
     title: "Paid Advertising",
-    desc: "High-ROI campaigns on Meta & Google that turn ad dollars into revenue—tracked down to the last cent.",
+    desc: "High-ROI campaigns on Meta & Google that turn ad dollars into revenue, tracked down to the last cent.",
   },
   {
     icon: MousePointerClick,

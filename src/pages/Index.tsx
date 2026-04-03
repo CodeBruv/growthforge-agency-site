@@ -6,6 +6,7 @@ import CaseStudies from "@/components/CaseStudies";
 import Process from "@/components/Process";
 import Testimonials from "@/components/Testimonials";
 import CtaSection from "@/components/CtaSection";
+import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
 const Index = () => (
@@ -18,6 +19,7 @@ const Index = () => (
     <Process />
     <Testimonials />
     <CtaSection />
+    <ContactSection />
     <Footer />
   </>
 );

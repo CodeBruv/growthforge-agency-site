@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 
 const steps = [
   { num: "01", title: "Audit & Strategy", desc: "We analyze your funnel, ad accounts, and analytics to identify the highest-impact opportunities." },
-  { num: "02", title: "Execution", desc: "We launch and optimize campaigns with rigorous testing—creative, copy, audiences, and landing pages." },
-  { num: "03", title: "Scale", desc: "Once we find what works, we double down—scaling spend while maintaining or improving ROAS." },
+  { num: "02", title: "Execution", desc: "We launch and optimize campaigns with rigorous testing; creative, copy, audiences, and landing pages." },
+  { num: "03", title: "Scale", desc: "Once we find what works, we double down, scaling spend while maintaining or improving ROAS." },
 ];
 
 const Process = () => (

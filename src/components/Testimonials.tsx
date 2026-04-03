@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-    quote: "GrowthForge didn't just run our ads—they rebuilt our entire acquisition strategy. Revenue is up 3x in four months.",
+    quote: "GrowthForge didn't just run our ads, they rebuilt our entire acquisition strategy. Revenue is up 3x in four months.",
     author: "Alex Chen",
     role: "CEO, Optivex",
   },
